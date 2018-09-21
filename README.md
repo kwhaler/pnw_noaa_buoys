@@ -6,3 +6,4 @@ Only one buoy was sourced but you could imagine looping through several and plot
 
 Data: [Station 46050 (LLNR 641) - STONEWALL BANK - 20NM West of Newport, OR](https://www.ndbc.noaa.gov/station_page.php?station=46050)
 
+[View the HTML version](https://kwhaler.github.io/pnw_noaa_buoys/florence_waves.html)
